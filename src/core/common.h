@@ -1,5 +1,5 @@
-#ifndef COMMON_H
-#define COMMON_H
+#ifndef CORE_COMMON_H
+#define CORE_COMMON_H
 
 #include <stdint.h>
 #include <stdlib.h>
